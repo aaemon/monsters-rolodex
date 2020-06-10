@@ -1,5 +1,5 @@
 # monsters-rolodex
-Created using create-react-app and hosted in Github
+Created using create-react-app and hosted in Github. Check the Masters brach for the source code.
 
 # live-demo
 http://ammerashraf.me/monsters-rolodex/
